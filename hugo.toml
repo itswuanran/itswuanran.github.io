@@ -1,0 +1,20 @@
+baseURL = 'https://anruence.github.io/'
+languageCode = 'en-us'
+title = '安然写字的地方'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'light'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'anruence'                 # github.com/YOUR_GITHUB_ID
+  rss = false                               # show rss icon
+
+  # home page profile
+  # name = 'anruence'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  math = true                               # enable KaTex math typesetting globally
