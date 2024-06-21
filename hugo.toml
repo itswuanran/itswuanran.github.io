@@ -1,4 +1,4 @@
-baseURL = 'https://anruence.github.io/'
+baseURL = 'https://itswuanran.github.io/'
 languageCode = 'en-us'
 title = '安然写字的地方'
 theme = 'paper'
@@ -8,11 +8,11 @@ theme = 'paper'
   color = 'light'                           # linen, wheat, gray, light
 
   # header social icons
-  github = 'anruence'                 # github.com/YOUR_GITHUB_ID
+  github = 'itswuanran'                 # github.com/YOUR_GITHUB_ID
   rss = false                               # show rss icon
 
   # home page profile
-  # name = 'anruence'
+  # name = 'itswuanran'
 
   # misc
   disableHLJS = true                        # disable highlight.js
