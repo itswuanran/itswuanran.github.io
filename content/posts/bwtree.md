@@ -2,7 +2,7 @@
 title: BwTree
 date: 2024-12-30 18:13:37
 tags:
-- BTree, LSMT
+- LSMT
 categories:
 - Database
 ---

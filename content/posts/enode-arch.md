@@ -15,7 +15,7 @@ ENode是一个基于消息的架构，使用ENode开发的系统，每个环节�
 
 ### ENode架构图
 
-![](/images/enode/enode-arch.png)
+![](/images/enode/enode-arch.jpg)
 
 ## ENode框架内部实现流程分析
 
